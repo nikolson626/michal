@@ -1,0 +1,101 @@
+id,nazwa_lotniska,kod_lotniska,kontynent_lotniska,szerokosc_geo,dlugosc_geo
+1,Yotvata Airfield,YOT,AS,52.7189291,58.677007
+2,Lençóis Paulista Airport,QGC,SA,39.7794767,-86.1700894
+3,Dubrovnik Airport,DBV,EU,-19.3836846,47.4392352
+4,Jiagedaqi Airport,JGD,AS,30.572815,104.066801
+5,Selawik Airport,WLK,NA,52.5713649,39.5247021
+6,Lijiang Airport,LJG,AS,13.6261714,123.1606556
+7,Mangalore International Airport,IXE,AS,33.2464649,131.5825056
+8,Atmautluak Airport,ATT,NA,40.6945036,-73.9565551
+9,Aden International Airport,ADE,AS,-23.3213892,-46.5881754
+10,Kuini Lavenia Airport,NTT,OC,30.299559,108.039002
+11,Kauhava Airport,KAU,EU,47.9527415,21.6927245
+12,Oombulgurri Airport,FVR,OC,-22.4231821,-45.4535162
+13,Ville Airport,KDJ,AF,31.918232,119.976948
+14,Katima Mulilo Airport,MPA,AF,-7.633333,108.366667
+15,RAF Alconbury,AYH,EU,-10.3931514,39.1361568
+16,Jack Northrop Field Hawthorne Municipal Airport,HHR,NA,54.6437754,21.780179
+17,Namtu Airport,NMT,AS,40.53971,45.61414
+18,Kamulai Airport,KAQ,OC,18.934217,-70.4066437
+19,Mansfield Lahm Regional Airport,MFD,NA,38.67387,-27.281743
+20,Grand Lake Regional Airport,NRI,NA,43.2374865,45.0503473
+21,Licenciado Benito Juarez International Airport,MEX,NA,53.0985458,6.0694
+22,Kukudu Airport,KUE,OC,64.7000006,43.3910351
+23,Safia Airport,SFU,OC,28.3683182,83.2934086
+24,Cassilândia Airport,CSS,SA,41.5024723,-8.3487249
+25,Sibi Airport,SBQ,AS,49.7517708,17.919916
+26,Termez Airport,TMJ,AS,48.4470051,23.2604434
+27,Bob Quinn Lake Airport,YBO,NA,-6.73479,106.7855
+28,Orenburg Central Airport,REN,EU,32.085484,112.124371
+29,Mandinga Airport,COG,SA,16.5552946,120.7109206
+30,Ruhengeri Airport,RHG,AF,-19.4085525,-42.374164
+31,Hooker County Airport,MHN,NA,24.682501,113.604535
+32,Jinnah International Airport,KHI,AS,33.426956,130.6436108
+33,Ileg Airport,ILX,OC,9.0795272,40.8652187
+34,Miami Seaplane Base,MPB,NA,29.689847,121.28259
+35,Borgarfjörður eystri Airport,BGJ,EU,-8.3893,115.2605
+36,Dourados Airport,DOU,SA,54.126654,22.3618689
+37,Baker City Municipal Airport,BKE,NA,14.175851,-89.861368
+38,Eagle Lake Airport,ELA,NA,49.35499,-97.36567
+39,Van Ferit Melen Airport,VAN,AS,26.319938,113.810157
+40,Savuti Airport,SVT,AF,38.6099176,-8.8036223
+41,Mouyondzi Airport,MUY,AF,48.7720518,2.4921227
+42,Óbidos Airport,OBI,SA,33.267964,116.557663
+43,Wittman Regional Airport,OSH,NA,-8.1433,112.6168852
+44,Akieni Airport,AKE,AF,41.1718057,44.9946631
+45,Tahoua Airport,THZ,AF,-7.0970638,107.5771444
+46,Oyo Ollombo Airport,OLL,AF,40.5270236,71.8334145
+47,Aeroclube de Bento Gonçalves Airport,BGV,SA,14.4706312,121.0053859
+48,Antonio Rivera Rodriguez Airport,VQS,NA,28.2107548,-82.2909146
+49,Baranof Warm Springs Float and Seaplane Base,BNF,NA,36.307064,120.39631
+50,José Martí International Airport,HAV,NA,19.543278,110.797759
+51,Arak Airport,AJK,AS,-7.13754,107.68305
+52,Ganja Airport,KVD,AS,-7.6435908,111.3754214
+53,Gran Canaria Airport,LPA,EU,23.12911,113.264385
+54,Guernsey Airport,GCI,EU,32.629398,110.798266
+55,El Yopal Airport,EYP,SA,1.932389,-76.214046
+56,Barranco Minas Airport,NBB,SA,8.2608053,123.0748243
+57,Cicia Airport,ICI,OC,6.7509063,-11.367219
+58,Wantoat Airport,WTT,OC,26.641774,118.17771
+59,Makkovik Airport,YMN,NA,29.985295,122.207215
+60,Furnace Creek Airport,DTH,NA,-11.7401439,24.4232735
+61,German Olano Airport,PCR,SA,7.3850041,125.7850005
+62,Crossville Memorial Whitson Field,CSV,NA,6.8954177,126.0203934
+63,Maubeuge-Élesmes Airport,XME,EU,38.7933106,140.2234077
+64,Matthew Spain Airport,SQS,NA,50.3616019,15.230454
+65,Manley Hot Springs Airport,MLY,NA,-6.8861034,107.3661435
+66,La Macarena Airport,LMC,SA,58.3598758,33.9054011
+67,Lahr Airport,LHA,EU,10.5922194,123.4845632
+68,Allahabad Airport,IXD,AS,49.0522544,14.4342708
+69,Payam International Airport,PYK,AS,44.2,118.46667
+70,Mui River Airport,MUJ,AF,-8.0806,111.7084
+71,Turkmenabat Airport,CRZ,AS,40.417358,117.500558
+72,Chomley Seaplane Base,CIV,NA,-21.2484875,-45.0013747
+73,Aberdeen Dyce Airport,ABZ,EU,22.0080725,113.3785933
+74,Rawalakot Airport,RAZ,AS,44.5140354,41.4352936
+75,Sette Cama Airport,ZKM,AF,22.556499,114.236875
+76,Redenção Airport,RDC,SA,29.859714,113.801133
+77,Damazin Airport,RSS,AF,9.9578348,124.1789637
+78,Inagua Airport,IGA,NA,53.10014,-111.76844
+79,Región de Murcia International Airport,RMU,EU,10.9455193,122.5100535
+80,Onotoa Airport,OOT,OC,34.749864,106.137293
+81,Kao Airport,KAZ,AS,-6.3783847,-41.8004409
+82,Truscott-Mungalalu Airport,TTX,OC,29.0825,48.13028
+83,Lumid Pau Airport,LUB,SA,0.053037,35.729768
+84,Grande Prairie Airport,YQU,NA,18.4691383,-77.5404459
+85,Kincardine Municipal Airport,YKD,NA,53.31611,40.70806
+86,Adampur Airport,AIP,AS,32.165,108.8822222
+87,Nicosia International Airport,NIC,AS,36.1560347,68.0477509
+88,Perry Stokes Airport,TAD,NA,30.081941,120.495065
+89,Esa'ala Airport,ESA,OC,42.92952,59.78199
+90,Akiachak Airport,KKI,NA,31.123351,121.510319
+91,Tbilisi International Airport,TBS,AS,-6.6513426,106.3493224
+92,San Antonio International Airport,SAT,NA,49.285973,-0.4889547
+93,Inongo Airport,INO,AF,43.37822,115.0594815
+94,Muko Muko Airport,MPC,AS,22.555259,113.884019
+95,Bade Airport,BXD,AS,40.4810579,50.1454455
+96,Seal Bay Seaplane Base,SYB,NA,27.9424688,48.6614478
+97,Warukin Airport,TJG,AS,-6.3079232,107.172085
+98,Ladysmith Airport,LAY,AF,-29.7844393,-55.7980283
+99,Münster Osnabrück Airport,FMO,EU,-21.7668575,-52.1096427
+100,Tri-State/Milton J. Ferguson Field,HTS,NA,55.6383075,22.938485
